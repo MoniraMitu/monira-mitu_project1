@@ -1,0 +1,41 @@
+.header{
+  background-image: url('../photo/pexels-julius-silver-753626.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+}
+
+/* section 2 */
+.section_2{
+  background-image: url('../photo/section_2.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 70vh;
+}
+
+/* section 3 */
+.section_3 div img{
+  width: 500px;
+  height: 600px;
+}
+.section_4{
+  text-align: center;
+}
+
+.section_4 img{
+  width: 500px;
+  
+}
+/* section 5 */
+.section_5 .banner-holder div img{
+  width: 300px;
+  height: 300px;
+}
+
+/* section 6 */
+.section_6 .img_galary img{
+  width: 500px;
+  height: 400px;
+}
